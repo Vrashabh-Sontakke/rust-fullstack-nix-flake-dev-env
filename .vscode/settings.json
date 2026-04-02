@@ -1,0 +1,10 @@
+{
+    "rust-analyzer.server.path": null,
+    "rust-analyzer.server.extraEnv": {
+        "NIX_PATH": "nixpkgs=flake:nixpkgs"
+    },
+    "direnv.path.dirs": ["."],
+    "direnv.restartExtensionsOnChange": [
+        "rust-lang.rust-analyzer"
+    ]
+}

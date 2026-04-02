@@ -1,0 +1,13 @@
+# Nix / NixOS
+.direnv
+
+# Rust / Cargo
+target
+Cargo.lock
+**/*.rs.bk
+*.pdb
+
+
+
+# Dependencies
+node_modules/
